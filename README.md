@@ -347,7 +347,7 @@ npm run dev
 ### Giao diện video giao thông đầu vào
 
 <p align="center">
-    <img width="800" alt="Video giao thông đầu vào" src="docs/input_video.png"/>
+    <img width="800" alt="Video giao thông đầu vào" src="docs/img/1.png"/>
 </p>
 <p align="center"><i>Hình 1. Video giao thông đầu vào</i></p>
 
@@ -356,7 +356,7 @@ npm run dev
 ### Nhận diện phương tiện bằng YOLO
 
 <p align="center">
-    <img width="800" alt="Nhận diện phương tiện bằng YOLO" src="docs/yolo_detection.png"/>
+    <img width="800" alt="Nhận diện phương tiện bằng YOLO" src="docs/img/2.png"/>
 </p>
 <p align="center"><i>Hình 2. Nhận diện phương tiện bằng YOLO</i></p>
 
@@ -365,7 +365,7 @@ npm run dev
 ### Theo dõi phương tiện bằng ID
 
 <p align="center">
-    <img width="800" alt="Theo dõi phương tiện" src="docs/tracking_id.png"/>
+    <img width="800" alt="Theo dõi phương tiện" src="docs/img/3.png"/>
 </p>
 <p align="center"><i>Hình 3. Theo dõi xe bằng ID</i></p>
 
@@ -374,7 +374,7 @@ npm run dev
 ### Ước lượng tốc độ xe
 
 <p align="center">
-    <img width="800" alt="Ước lượng tốc độ xe" src="docs/speed_estimation.png"/>
+    <img width="800" alt="Ước lượng tốc độ xe" src="docs/img/4.png"/>
 </p>
 <p align="center"><i>Hình 4. Ước lượng tốc độ xe</i></p>
 
@@ -383,7 +383,7 @@ npm run dev
 ### Cảnh báo xe vượt tốc độ
 
 <p align="center">
-    <img width="800" alt="Cảnh báo xe vượt tốc độ" src="docs/violation_alert.png"/>
+    <img width="800" alt="Cảnh báo xe vượt tốc độ" src="docs/img/5.png"/>
 </p>
 <p align="center"><i>Hình 5. Cảnh báo phương tiện vượt tốc độ</i></p>
 
@@ -392,7 +392,7 @@ npm run dev
 ### Kết nối ví MetaMask
 
 <p align="center">
-    <img width="800" alt="Kết nối MetaMask" src="docs/metamask_connect.png"/>
+    <img width="800" alt="Kết nối MetaMask" src="docs/img/6.png"/>
 </p>
 <p align="center"><i>Hình 6. Kết nối ví MetaMask</i></p>
 
@@ -401,7 +401,7 @@ npm run dev
 ### Ghi mã băm lên Blockchain
 
 <p align="center">
-    <img width="800" alt="Ghi dữ liệu lên Blockchain" src="docs/blockchain_hash.png"/>
+    <img width="800" alt="Ghi dữ liệu lên Blockchain" src="docs/img/7.png"/>
 </p>
 <p align="center"><i>Hình 7. Ghi mã băm dữ liệu lên Blockchain</i></p>
 
@@ -410,7 +410,7 @@ npm run dev
 ### Kiểm chứng dữ liệu giao thông
 
 <p align="center">
-    <img width="800" alt="Kiểm chứng dữ liệu" src="docs/verify_data.png"/>
+    <img width="800" alt="Kiểm chứng dữ liệu" src="docs/img/8.png"/>
 </p>
 <p align="center"><i>Hình 8. Kiểm chứng dữ liệu tốc độ xe</i></p>
 
