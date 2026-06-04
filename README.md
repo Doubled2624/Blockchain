@@ -21,6 +21,15 @@
   [![Dai Nam University](https://img.shields.io/badge/Dai%20Nam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 </div>
 
+### Poster đề tài
+
+<p align="center">
+  <img src="docs/poster/Poster.png" alt="Poster đề tài" width="700"/>
+</p>
+<p align="center"><em>POSTER</em></p>
+
+---
+
 ---
 
 ## 📖 1. Giới thiệu hệ thống
@@ -418,14 +427,6 @@ npm run dev
 
 ---
 
-### Poster đề tài
-
-<p align="center">
-  <img src="docs/project photo/Poster.png" alt="Poster đề tài" width="700"/>
-</p>
-<p align="center"><em>POSTER</em></p>
-
----
 
 ## 📊 10. Kết quả đạt được
 
@@ -570,12 +571,6 @@ vehicle-speed-blockchain/
 
 ---
 
-<p align="center">
-  <img src="docs/project photo/Poster.png" alt="Ảnh Poster" width="700"/>
-</p>
-<p align="center">
-  <em>POSTER</em>
-</p>
 
   © 2025 AIoTLab, Faculty of Information Technology, Dai Nam University. All rights reserved.
 </p>
